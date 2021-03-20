@@ -1,2 +1,2 @@
 # Railways
-Railway Reservation System project in CPP
+Railway Reservation System(RRS) project in CPP
